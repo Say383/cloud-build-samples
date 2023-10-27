@@ -17,3 +17,4 @@ pg8000==1.29.4 # for PostgreSQL
 
 # python-tds       # for MSSQL
 # sqlalchemy-pytds # for MSSQL
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability

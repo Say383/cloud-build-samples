@@ -17,3 +17,4 @@ pymysql          # for MySQL
 
 python-tds       # for MSSQL
 sqlalchemy-pytds # for MSSQL
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
